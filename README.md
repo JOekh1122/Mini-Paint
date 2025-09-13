@@ -3,22 +3,18 @@
 🎨 Java Swing Drawing Application
 📌 Overview
 
-This is a simple Java Swing-based drawing application that allows users to create and manage different geometric shapes interactively. The app provides a GUI where users can:
+This is a simple Java Swing-based drawing application that allows users to create and manage different geometric shapes interactively.
 
+#The app provides a GUI where users can:
 Add new shapes (Circle, Rectangle, Square, Line Segment).
-
 Set coordinates and dimensions for each shape.
-
 Colorize shapes (with separate border and fill color).
-
 Delete shapes from the canvas.
-
 Select and manage shapes from a dropdown list.
-
 The project demonstrates OOP principles, Swing GUI programming, and basic drawing logic in Java.
 
 =======================================================================
-⚡ Features
+#⚡ Features
 
 ✅ Create shapes by entering properties (coordinates, size).
 ✅ Supported shapes:
@@ -34,7 +30,7 @@ Line Segment
 ✅ Error handling for invalid inputs.
 
 =======================================================================
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Java SE
 
@@ -43,7 +39,7 @@ AWT (java.awt) for drawing and colors
 
 =======================================================================
 
-📂 Project Structure
+#📂 Project Structure
 ├── Frontend
 │   ├── MainWindow.java         # Main GUI (canvas + buttons)
 │   ├── CircleCreation.java     # Circle creation form
@@ -63,7 +59,7 @@ AWT (java.awt) for drawing and colors
 
 =======================================================================
 
-🚀 How to Run
+#🚀 How to Run
 
 Clone the repo or copy the source code.
 
@@ -74,7 +70,7 @@ Run the MainWindow class.
 Start adding shapes, colorizing, and deleting them!
 
 =======================================================================
-🎯 Example Workflow
+#🎯 Example Workflow
 
 Click Circle, enter center coordinates and radius, then press Add.
 
@@ -85,7 +81,7 @@ Select the shape from the dropdown → Click Colorize → Choose colors.
 To delete, select the shape and click Delete.
 
 =======================================================================
-ScreenShots
+#ScreenShots
 <img width="1808" height="1055" alt="image" src="https://github.com/user-attachments/assets/9135d9dd-99ef-4577-8c5f-39ebaee08379" />
 
 <img width="597" height="462" alt="image" src="https://github.com/user-attachments/assets/fa45fc6c-7217-4715-b0d3-acac6d5c7b1f" />
