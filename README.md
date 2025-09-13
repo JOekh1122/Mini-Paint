@@ -23,12 +23,10 @@ The project demonstrates OOP principles, Swing GUI programming, and basic drawin
 ✅ Supported shapes:
 
 Circle
-
 Rectangle
-
 Square
-
 Line Segment
+
 ✅ Select and colorize shapes (border + fill color).
 ✅ Delete shapes dynamically from the canvas.
 ✅ Shape list management via JComboBox.
@@ -39,8 +37,8 @@ Line Segment
 Java SE
 
 Swing (javax.swing) for GUI
-
 AWT (java.awt) for drawing and colors
+
 ====================================================================================================================
 📂 Project Structure
 ├── Frontend
@@ -69,6 +67,7 @@ Open the project in NetBeans or IntelliJ IDEA.
 Run the MainWindow class.
 
 Start adding shapes, colorizing, and deleting them!
+
 ====================================================================================================================
 🎯 Example Workflow
 
@@ -79,6 +78,7 @@ The shape is added to the canvas and the dropdown.
 Select the shape from the dropdown → Click Colorize → Choose colors.
 
 To delete, select the shape and click Delete.
+
 ====================================================================================================================
 ScreenShots
 <img width="1808" height="1055" alt="image" src="https://github.com/user-attachments/assets/9135d9dd-99ef-4577-8c5f-39ebaee08379" />
