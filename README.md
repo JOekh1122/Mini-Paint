@@ -61,36 +61,36 @@ AWT (java.awt) for drawing and colors
 
 ├── Frontend
 
-│   ├── MainWindow.java         # Main GUI (canvas + buttons)
+│   ├── MainWindow.java           # Main GUI (canvas + buttons)
 
-│   ├── CircleCreation.java     # Circle creation form
+│   ├── CircleCreation.java       # Circle creation form
 
-│   ├── RectangleCreation.java  # Rectangle creation form
+│   ├── RectangleCreation.java    # Rectangle creation form
 
-│   ├── SquareCreation.java     # Square creation form
+│   ├── SquareCreation.java       # Square creation form
 
-│   ├── LineCreation.java       # Line creation form
+│   ├── LineCreation.java         # Line creation form
 
 │
 
 ├── backend
 
-│   ├── ShapeInterface.java     # Shape abstraction
+│   ├── ShapeInterface.java       # Shape abstraction
 
 
 
-│   ├── Rectangle.java          # Rectangle class
+│   ├── Rectangle.java            # Rectangle class
 
-│   ├── Square.java             # Square class
+│   ├── Square.java               # Square class
 
-│   ├── Line.java               # Line class
+│   ├── Line.java                 # Line class
 
-│   ├── Circle.java             # Circle class
+│   ├── Circle.java               # Circle class
 
-│   ├── Draw.java               # Drawing engine
+│   ├── Draw.java                 # Drawing engine
 
 │
-└── README.md                   # Project documentation
+└── README.md                     # Project documentation
 
 =======================================================================
 
