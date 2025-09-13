@@ -18,16 +18,24 @@ The project demonstrates OOP principles, Swing GUI programming, and basic drawin
 #⚡ Features
 
 ✅ Create shapes by entering properties (coordinates, size).
+
 ✅ Supported shapes:
 
 Circle
+
 Rectangle
+
 Square
+
 Line Segment
 
+
 ✅ Select and colorize shapes (border + fill color).
+
 ✅ Delete shapes dynamically from the canvas.
+
 ✅ Shape list management via JComboBox.
+
 ✅ Error handling for invalid inputs.
 
 =======================================================================
