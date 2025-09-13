@@ -16,6 +16,7 @@ Delete shapes from the canvas.
 Select and manage shapes from a dropdown list.
 
 The project demonstrates OOP principles, Swing GUI programming, and basic drawing logic in Java.
+
 ======================================================================================================================
 ⚡ Features
 
@@ -31,6 +32,7 @@ Line Segment
 ✅ Delete shapes dynamically from the canvas.
 ✅ Shape list management via JComboBox.
 ✅ Error handling for invalid inputs.
+
 ====================================================================================================================
 🛠️ Tech Stack
 
