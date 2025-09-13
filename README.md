@@ -40,6 +40,7 @@ Swing (javax.swing) for GUI
 AWT (java.awt) for drawing and colors
 
 ====================================================================================================================
+
 📂 Project Structure
 ├── Frontend
 │   ├── MainWindow.java         # Main GUI (canvas + buttons)
@@ -57,6 +58,7 @@ AWT (java.awt) for drawing and colors
 │   ├── Draw.java               # Drawing engine
 │
 └── README.md                   # Project documentation
+
 ====================================================================================================================
 🚀 How to Run
 
