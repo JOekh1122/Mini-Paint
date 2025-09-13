@@ -17,7 +17,7 @@ Select and manage shapes from a dropdown list.
 
 The project demonstrates OOP principles, Swing GUI programming, and basic drawing logic in Java.
 
-======================================================================================================================
+=======================================================================
 ⚡ Features
 
 ✅ Create shapes by entering properties (coordinates, size).
@@ -33,7 +33,7 @@ Line Segment
 ✅ Shape list management via JComboBox.
 ✅ Error handling for invalid inputs.
 
-====================================================================================================================
+=======================================================================
 🛠️ Tech Stack
 
 Java SE
@@ -41,7 +41,7 @@ Java SE
 Swing (javax.swing) for GUI
 AWT (java.awt) for drawing and colors
 
-====================================================================================================================
+=======================================================================
 
 📂 Project Structure
 ├── Frontend
@@ -61,7 +61,8 @@ AWT (java.awt) for drawing and colors
 │
 └── README.md                   # Project documentation
 
-====================================================================================================================
+=======================================================================
+
 🚀 How to Run
 
 Clone the repo or copy the source code.
@@ -72,7 +73,7 @@ Run the MainWindow class.
 
 Start adding shapes, colorizing, and deleting them!
 
-====================================================================================================================
+=======================================================================
 🎯 Example Workflow
 
 Click Circle, enter center coordinates and radius, then press Add.
@@ -83,7 +84,7 @@ Select the shape from the dropdown → Click Colorize → Choose colors.
 
 To delete, select the shape and click Delete.
 
-====================================================================================================================
+=======================================================================
 ScreenShots
 <img width="1808" height="1055" alt="image" src="https://github.com/user-attachments/assets/9135d9dd-99ef-4577-8c5f-39ebaee08379" />
 
