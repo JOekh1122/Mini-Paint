@@ -14,6 +14,7 @@ Select and manage shapes from a dropdown list.
 The project demonstrates OOP principles, Swing GUI programming, and basic drawing logic in Java.
 
 =======================================================================
+
 #⚡ Features
 
 ✅ Create shapes by entering properties (coordinates, size).
@@ -30,6 +31,7 @@ Line Segment
 ✅ Error handling for invalid inputs.
 
 =======================================================================
+
 #🛠️ Tech Stack
 
 Java SE
